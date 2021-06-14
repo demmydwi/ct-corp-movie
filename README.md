@@ -2,15 +2,15 @@
 
 ## Supported Devices
 
-This project require Android Devices with Android OS Minimum SDK Version 23
+This project require Android Devices with Minimum SDK Version 23
 
 ## Supported Features
 
 - Search song by Artist name or track name using iTunes affiliate API
 - Play selected song
-- Pause / resume played song
+- Pause / resume song
 - Seek / moves the slider to the desired position
-- Keep song played after new search performed
+- Keep song playing after new search performed
 
 ## Requirement to Build The App
 
