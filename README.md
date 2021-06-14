@@ -14,8 +14,8 @@ This project require Android Devices with Minimum SDK Version 23
 
 ## Requirement to Build The App
 
-Flutter version 1.22.4
-Dart version 2.10.4
+- Flutter version 1.22.4
+- Dart version 2.10.4
 
 ## Instructions to build
 
