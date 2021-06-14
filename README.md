@@ -1,38 +1,4 @@
-# My Flutter Music Player
-
-## Supported Devices
-
-This project require Android Devices with Minimum SDK Version 23
-
-## Supported Features
-
-- Search song by Artist name or track name using iTunes affiliate API
-- Play selected song
-- Pause / resume song
-- Seek / moves the slider to the desired position
-- Keep song playing after new search performed
-
-## Requirement to Build The App
-
-- Flutter version 1.22.4
-- Dart version 2.10.4
-
-## Instructions to build
-
-Running this commands on yours local machine
-
-First clone this repository by `git clone $url`
-then open up the source codes using your favorite editor
-run `flutter pub get` on terminal and for the last
-run `flutter build apk`
-
-## Instructions to deploy
-
-This project currently could be deployed using tethered usb
-[Run apps on a hardware device](https://developer.android.com/studio/run/device)
-
-for another option it can be deploy to Google Play Store
-[Publishing to the Google Play Store](https://github.com/flutter/website/blob/master/src/docs/deployment/android.md#publishing-to-the-google-play-store)
+# Movie List App
 
 ## Getting Started
 
